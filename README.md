@@ -1,2 +1,2 @@
 # python-pro
-repositorio 1
+##este repositorio pertenece a Jose Escalante
